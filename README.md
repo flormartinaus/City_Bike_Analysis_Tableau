@@ -1,6 +1,6 @@
 # City_Bike_Analysis_Tableau
 
-https://prod-apsoutheast-a.online.tableau.com/#/site/flormartinaus/workbooks/275052?:origin=card_share_link
+https://public.tableau.com/app/profile/florencia.martin5464/viz/citi_bike_challenge_v2/CitiBikeDashboard
 
 ## Background
 Congratulations on your new job! As the new lead analyst for the New York Citi Bike program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
@@ -11,7 +11,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Deployment
 Please find below the link to the Tableau dashboard, showcasing the results of the analysis: 
-https://prod-apsoutheast-a.online.tableau.com/#/site/flormartinaus/workbooks/275052?:origin=card_share_link
+https://public.tableau.com/app/profile/florencia.martin5464/viz/citi_bike_challenge_v2/CitiBikeDashboard
 
 ## Instructions
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
